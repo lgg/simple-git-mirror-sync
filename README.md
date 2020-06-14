@@ -40,5 +40,5 @@ You set source git repo _space_ target git repo
 ## License
 
 * Contributing are welcome!
-* MIT
-* lgg, 2020
+* [MIT](./LICENSE)
+* [lgg](https://github.com/lgg), 2020
