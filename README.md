@@ -20,7 +20,7 @@ Install requirements and add SSH keys:
 Manually run:
 * `./sync.sh git@source git@target`
 
-Run with config (don't forget to edit `config.conf` for your needs, [check example](./config-sample.conf):)
+Run with config (don't forget to edit `config.conf` for your needs, [check example](./config-sample.conf)):
 * `./sync.sh -c`
 
 Config example:
