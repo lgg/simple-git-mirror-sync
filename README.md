@@ -25,7 +25,9 @@ Run with config (don't forget to edit `config.conf` for your needs, [check examp
 
 Config example:
 ```
-sourceRepo targerRepo
+sourceRepo1 targetRepo1
+sourceRepo1 targetRepo2
+sourceRepo3 targetRepo3
 ```
 
 You set source git repo _space_ target git repo
