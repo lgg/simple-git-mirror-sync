@@ -2,11 +2,13 @@
 function usage
 {
     printf "\n"
-    printf "check usage in gitlab repo: https://github.com/lgg/simple-git-mirror-sync\n"
+    printf "check usage in gitlab repo: https://gitlab.com/neuro-core/common/simple-git-mirror-sync\n"
     printf "\n"
     printf "./sync.sh sourceRepo targetRepo\n"
     printf "\n"
-    printf "only ssh@git supported\n"
+    printf "or run with config: ./sync.sh -c"
+    printf "\n"
+    printf "!!! only ssh@git url supported !!!\n"
     printf "\n"
 }
 
