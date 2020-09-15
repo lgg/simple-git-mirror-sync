@@ -59,6 +59,7 @@ if [[ -z "$1" && -z "$2" ]]; then
     exit;
 fi
 
+mkdir -p sync
 cd sync
 
 if [[ "$1" = "-c" ]]; then
